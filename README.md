@@ -105,3 +105,9 @@ In order to check your registry, you can go to the browser and use the url:
 ```
 <DOMAIN>/v2/_catalog
 ```
+
+### Credits
+
+I used official Docker image for Registry and for Nginx.
+
+And a lot of Internet sources :)
