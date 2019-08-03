@@ -1,0 +1,4 @@
+nginx/ssl/*
+!nginx/ssl/*.conf
+registrydata/
+auth/.htpasswd
